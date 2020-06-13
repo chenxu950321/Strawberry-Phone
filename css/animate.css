@@ -1,0 +1,15 @@
+.screen-1__shadow,
+.screen-1__phone,
+.screen-1__heading{
+    transition:all 1s;
+}
+
+.screen-1__heading_animate_init{
+    opacity: 0;
+    transform: translate(0,100%);
+}
+
+.screen-1__heading_animate_done{
+    opacity: 1;
+    transform: translate(0,0);
+}
