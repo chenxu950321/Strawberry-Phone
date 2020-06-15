@@ -1,9 +1,6 @@
 # Strawberry-Phone
 
 
-
-# ProjectName
-
 Native javascript dynamic webpage development
 
 <!-- PROJECT SHIELDS -->
@@ -32,8 +29,7 @@ Native javascript dynamic webpage development
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
-
+https://github.com/chenxu950321/Strawberry-Phone
 
 
 ###### 开发前的配置要求
@@ -44,59 +40,43 @@ Native javascript dynamic webpage development
 1. git clone git@github.com:chenxu950321/-.git
 
 ### 文件目录说明
-eg:
-
-```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
-
-```
-
-
-
-
+strawberry
+-css
+--animate.css
+--base.css
+--index.css
+-js
+--index.js
+--test.js
+-index.html
 
 ### 开发的架构 
-
+暂无
 
 ### 部署
 
 暂无
 
 ### 使用到的框架
-<!-- 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com) -->
+
+暂无
 
 ### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+陈序 
+github:chenxu950321
+e-mail:chenucr0321@gmail.com
 
 #### 如何参与开源项目
 
 贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
 
-<!-- 
+
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request -->
+5. Open a Pull Request
 
 
 
