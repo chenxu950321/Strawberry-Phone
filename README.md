@@ -40,15 +40,16 @@ https://github.com/chenxu950321/Strawberry-Phone
 1. git clone git@github.com:chenxu950321/-.git
 
 ### 文件目录说明
-strawberry
--css
---animate.css
---base.css
---index.css
--js
---index.js
---test.js
--index.html
+
+├── index.html
+├── README.md
+├── css
+│  ├── animate.css
+│  ├── index.css
+│  ├── base.css
+├── js
+│  ├── index.js
+│  ├── test.js
 
 ### 开发的架构 
 暂无
