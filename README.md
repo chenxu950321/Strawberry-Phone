@@ -41,6 +41,8 @@ https://github.com/chenxu950321/Strawberry-Phone
 
 ### 文件目录说明
 
+```
+strawberry
 ├── index.html
 ├── README.md
 ├── css
@@ -50,7 +52,8 @@ https://github.com/chenxu950321/Strawberry-Phone
 ├── js
 │  ├── index.js
 │  ├── test.js
-
+└── /util/
+```
 ### 开发的架构 
 暂无
 
